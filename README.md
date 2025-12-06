@@ -2,8 +2,6 @@
 
 A modern, full-stack web application that curates health news articles and uses AI to generate summaries, key takeaways, and simplified versions for better accessibility.
 
-## Try it out : 
-Health News Curator : https://health-news-ai-1lb9.vercel.app/
 
 ## 🚀 Project Setup & Demo
 
