@@ -4,6 +4,6 @@
 
 @layer base {
   body {
-    @apply transition-colors duration-300 ease-in-out bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100;
+    @apply transition-colors duration-300 ease-in-out bg-merc-silver text-merc-black dark:bg-rb-blue dark:text-gray-100;
   }
 }
